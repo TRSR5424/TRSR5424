@@ -10,15 +10,17 @@ I’m a first year CS student at Northumbria University passionate about anythin
 - 🌱 I’m currently learning flask and anything else I can cram into my brain
 - 💬 Ask me about anything I will happily ask chatGPT for you
 - 📫 How to reach me: archie.ker@gmail.com
-<!-- - ⚡ Fun fact: **[Something Interesting About You]** -->
+- ⚡ Fun fact: I take part in hill climbs; Narrow road, Car go fast, Probably has a significant gradient. [![YouTube Channel](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@HillClimbTV)
 
 ### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Jinja2](https://img.shields.io/badge/-Jinja2-000000?style=flat&logo=jinja&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![MonoGame](https://img.shields.io/badge/-MonoGame-E95420?style=flat&logo=monogame&logoColor=white)
+
 
 ### 📊 GitHub Stats
 
@@ -34,7 +36,7 @@ I’m a first year CS student at Northumbria University passionate about anythin
 
 ---
 
-⭐️ From TRSR5424(https://github.com/TRSR5424)
+⭐️ From ![TRSR5424](https://github.com/TRSR5424)
 
 <!--
 **TRSR5424/TRSR5424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
