@@ -1,6 +1,7 @@
-# Hi there! 👋 I'm Archie
+![Profile Banner](https://github.com/TRSR5424/TRSR5424/blob/79fc959e9307fef437f6be6f24f10c93da6f184a/ChatGPT%20Image%20Mar%2030%2C%202025%2C%2001_47_52%20PM.png)
+(ChatGPT Special)
 
-![Profile Banner](https://your-image-url.com/banner.png)
+<!-- # Hi there! 👋 I'm Archie
 
 ### 🚀 About Me
 
@@ -11,6 +12,7 @@ I’m a first year CS student at Northumbria University passionate about anythin
 - 💬 Ask me about anything I will happily ask chatGPT for you
 - 📫 How to reach me: archie.ker@gmail.com
 - ⚡ Fun fact: I take part in hill climbs; Narrow road, Car go fast, Probably has a significant gradient. [![YouTube Channel](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@HillClimbTV)
+-->
 
 ### 🛠 Tech Stack
 
